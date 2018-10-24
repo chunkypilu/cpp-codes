@@ -1,0 +1,5 @@
+1.Driver program is written in main.cpp
+2.Input we are taking from a file named input_graph.txt
+3.Here we are implimenting two algorithms (prims, kruskal) code for them is written in prim.cpp and kruskal.cpp
+4.Graph data structure is implimented in graph.cpp, similarly there are other file for supporting data structures like mfset, priority queue ,etc.
+5.For executing code go to main and comlpile and run that file the code will show output for both the algorithms.
