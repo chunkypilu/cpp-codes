@@ -1,0 +1,18 @@
+$ gcc clientfinal.c -o client.out
+$ gcc serverfinal.c -o server.out
+
+now run
+
+$ ./server.out 4547
+
+/////now server is in listening mode////
+mssg receieved:- Hello world 
+
+
+
+//open new terminal/////
+$ ./client.out localhost 4547
+
+enter mssg for checking communication:- Hello world 
+
+Mr. Client I got yr message
